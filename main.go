@@ -7,7 +7,7 @@ package main
 #cgo windows CFLAGS: -fplugin=./calc_win.so
 
 void echo() {
-  printf("link: https://github.com/hitwhfanke/CNNVD-201802-203");
+  printf("link: https://github.com/neargle/CVE-2018-6574-POC");
 }
 
 */
