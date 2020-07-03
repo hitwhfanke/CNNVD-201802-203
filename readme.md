@@ -20,7 +20,7 @@ payload 在: https://github.com/hitwhfanke/CNNVD-201802-203/blob/master/calc.c#L
 
 *PS. Windows 的部分 GCC 可能没有 `--enable-plugin` 支持, 会爆 ` error: plugin support is disabled; configure with --enable-plugin`. 当前的 POC 需要 gcc 支持 `--enable-plugin`.*
 
-## VERSION
+## 版本
 
 - before 1.8.7
 - before 1.9.4
